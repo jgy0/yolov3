@@ -27,3 +27,8 @@ label_path = r'D:/code/python/PyTorch-YOLOv3/data/coco/labels' + label_path   �
 <br/>
 只想检测，不想训练模型<br/>
 运行detec.py进行目标检测（直接用训练好的模型），output文件夹下为输出结果
+<br/>
+
+注意，部分文件过大，完整项目下载地址
+链接：https://pan.baidu.com/s/1NPSOfvCcyVLik86t-2iT_g?pwd=61k2 
+提取码：61k2
