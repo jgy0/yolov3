@@ -8,16 +8,16 @@ conda create -n myenv python=3.9  # 创建新的虚拟环境并指定python版�
 
 conda activate 环境名              #激活你的环境<br/>
 需要满足以下环境变量
-cudatoolkit               11.8.0           <br/>
-cudnn                     8.9.2.26              <br/> 
-numpy                     1.19.5                 <br/>  
-pandas                    1.2.0                <br/>
-python                    3.9.18          <br/>
-scikit-learn              1.4.2            <br/>
-scipy                     1.10.1                <br/>   
-tensorflow-gpu            2.6.0                  <br/>  
-torch                     2.1.1+cu121        <br/>
-torchvision               0.16.1+cu121          <br/>
+cudatoolkit               11.8.0        
+cudnn                     8.9.2.26            
+numpy                     1.19.5            
+pandas                    1.2.0          
+python                    3.9.18        
+scikit-learn              1.4.2          
+scipy                     1.10.1              
+tensorflow-gpu            2.6.0                
+torch                     2.1.1+cu121       
+torchvision               0.16.1+cu121        
 <br/>
 
 使用教程<br/>
